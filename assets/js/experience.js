@@ -7,7 +7,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "NLP Research Engineer",
-    cardImage: "assets/images/experience-page/saama.jpg",
+    cardImage: "assets/images/experience-page/saama.png",
     place: "Saama Technologies",
     time: "(March, 2018 - present)",
     desp: "<li>Research and Development of BioMedical domain specific NLP deep learning models.</li> <li>Worked on chatbot Intent & Entity classifier, currently deployed in 72 top pharma companies. This chatbot helped speed up information retrieval before this manual SQL query did it.</li> <li>Worked on the Deep Learning model architecture and development of SDQ, which Pfizer used to speed up the covid vaccine trial by a month.</li>",
