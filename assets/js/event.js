@@ -4,34 +4,37 @@ $(document).ready(function () {
   const event = [
     // eslint-disable-next-line linebreak-style
     {
-      title: "Talk on ABC",
-      image: "assets/images/event/image3.jpg",
+      title: "PyCon Talk on IndicNLP",
+      image: "assets/images/event/pycon.jpg",
     },
     {
-      title: "Keynote on XYZ",
-      image: "assets/images/event/image2.jpg",
-    },
-    { title: "Group Picture", image: "assets/images/event/image1.jpg" },
-    {
-      title: "Presentation",
-      image: "assets/images/event/image4.jpg",
+      title: "NLP at Saama Talks",
+      image: "assets/images/event/nlp_saama.jpg"
     },
     {
-      title: "Note on XYZ",
-      image: "assets/images/event/image5.jpg",
+      title: "Demo Malayalam and Tamil Word2Vec at chennaipy",
+      image: "assets/images/event/chennipy.jpg",
     },
     {
-      title: "Keytopics",
-      image: "assets/images/event/image6.jpg",
+      title: "Tensorflow 2.0 vs PyTorch at Saama Talks",
+      image: "assets/images/event/samma_tf_vs_pt.jpg",
     },
     {
-      title: "The Gist",
-      image: "assets/images/event/image7.jpg",
+      title: "Talk on NLP @ SSN College of Engineering",
+      image: "assets/images/event/nlp_ssn.jpg",
     },
-    {
-      title: "Thank You",
-      image: "assets/images/event/image8.jpg",
-    },
+    // {
+    //   title: "Keytopics",
+    //   image: "assets/images/event/image6.jpg",
+    // },
+    // {
+    //   title: "The Gist",
+    //   image: "assets/images/event/image7.jpg",
+    // },
+    // {
+    //   title: "Thank You",
+    //   image: "assets/images/event/image8.jpg",
+    // },
   ];
   // Filling the details from the object array event
   function fillData() {
