@@ -108,10 +108,10 @@ document.addEventListener("DOMContentLoaded", showCards);
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
   {
-    title: "The Uplift Project",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/uplift.png",
-    desp: "I would be responsible for guiding 100s of participants across the globe in their first steps towards Applied Data Science and building end-to-end machine learning projects.",
+    title: "MEDIQA 2021 - Question Summarization (QS)",
+    subtitle: "3rd Place",
+    image: "assets/images/experience-page/mediqa.jpg",
+    desp: "Consumer health questions tend to contain numerous peripheral information that hinders automatic Question Answering (QA). Effective automatic summarization methods for consumer health questions could therefore play a key role in enhancing medical question answering.",
   },
   // {
   //   title: "ULHacks",
